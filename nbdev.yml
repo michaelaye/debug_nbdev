@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "debug_nbdev"
+  site-url: "https://{user}.github.io/debug_nbdev/"
+  description: "{description}"
+  repo-branch: master
+  repo-url: "https://github.com/{user}/debug_nbdev/"
